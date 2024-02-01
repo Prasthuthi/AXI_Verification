@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/hwetools/work_area/frontend/Prasthuthi/learning
+T_opt
+!s110 1686807269
+VADaMM?VO2Z0J;n3HClSK40
+04 6 4 work gatetb fast 0
+=1-a4badb503de1-648aa2e4-efc29-4b57
+Z1 o-quiet -auto_acc_if_foreign -work work +acc=npr
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.6c;65
+R0
+T_opt1
+!s110 1686808992
+VPPKWA9KP580mZV?=X[g7P3
+04 7 4 work fadd_tb fast 0
+=1-a4badb503de1-648aa9a0-34268-60a4
+R1
+R2
+n@_opt1
+R3
+vfadd
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 !s110 1686808986
+!i10b 1
+!s100 >;GZ:PbOYScK4JZk>@bWd1
+IT]<gJH<V?ig=7o1V9mm1@0
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+!s105 fadd_v_unit
+S1
+R0
+w1686808360
+8fadd.v
+Ffadd.v
+L0 1
+Z7 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z8 !s108 1686808986.000000
+Z9 !s107 fadd_tb.v|fadd.v|
+Z10 !s90 -sv|+acc|+cover|+fcover|fadd.v|fadd_tb.v|
+!i113 0
+Z11 !s102 +cover
+Z12 o-sv +acc +cover +fcover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfadd_tb
+R4
+R5
+!i10b 1
+!s100 OEn?3eTbO4QBk[Zn`nm?e0
+IohahI?fBdOVaBGIA0hVZE0
+R6
+!s105 fadd_tb_v_unit
+S1
+R0
+w1686808523
+8fadd_tb.v
+Ffadd_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R2
+vgate
+R4
+Z13 !s110 1686808532
+!i10b 1
+!s100 OTjGj^g<Ho:i<?8;?J@GH1
+IGO:K<TIP5VX7g@8_98Ra;3
+R6
+!s105 gate_v_unit
+S1
+R0
+w1686807157
+8gate.v
+Fgate.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z14 !s108 1686808532.000000
+Z15 !s107 gatetb.v|gate.v|
+Z16 !s90 -sv|+acc|+cover|+fcover|gate.v|gatetb.v|
+!i113 0
+R11
+R12
+R2
+vgatetb
+R4
+R13
+!i10b 1
+!s100 PeWTnK=<X]FfzW]lK@5MG3
+I[Wm::Q8M>n_JAR:8>E03Q3
+R6
+!s105 gatetb_v_unit
+S1
+R0
+w1686807224
+8gatetb.v
+Fgatetb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R11
+R12
+R2

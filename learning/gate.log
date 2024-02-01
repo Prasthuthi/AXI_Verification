@@ -1,0 +1,30 @@
+# vsim -vopt work.gatetb -voptargs="+acc=npr" -assertdebug -l gate.log -sva -coverage -c -do "log -r /; add wave -r /; coverage save -onexit -assert -directive -cvg -codeAll gate_coverage.ucdb; run -all; exit" -wlf gate_waveform.wlf 
+# Start time: 11:25:46 on Jun 15,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim
+# //  Version 10.6c linux Jul 25 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.gatetb(fast)
+# Loading work.gate(fast)
+# log -r /
+# (vish-4014) No objects found matching '/'.
+#  add wave -r /
+# (vish-4014) No objects found matching '/'.
+#  coverage save -onexit -assert -directive -cvg -codeAll gate_coverage.ucdb
+#  run -all
+#  exit
+# Saving coverage database on exit...
+# End time: 11:26:06 on Jun 15,2023, Elapsed time: 0:00:20
+# Errors: 2, Warnings: 0

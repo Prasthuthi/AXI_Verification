@@ -1,0 +1,69 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/hwetools/work_area/frontend/Prasthuthi/learning/pannu
+T_opt
+!s110 1686810023
+Vo35;5]OHccP]BhU2=I2Z83
+04 7 4 work fadd_tb fast 0
+=1-a4badb503de1-648aada7-985d0-601f
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+Z1 tCvgOpt 0
+n@_opt
+OE;O;10.6c;65
+vfadd
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1686810012
+!i10b 1
+!s100 >;GZ:PbOYScK4JZk>@bWd1
+IT]<gJH<V?ig=7o1V9mm1@0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 fadd_v_unit
+S1
+R0
+w1686809118
+8fadd.v
+Ffadd.v
+L0 1
+Z5 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z6 !s108 1686810012.000000
+Z7 !s107 fadd_tb.v|fadd.v|
+Z8 !s90 -sv|+acc|+cover|+fcover|fadd.v|fadd_tb.v|
+!i113 0
+Z9 !s102 +cover
+Z10 o-sv +acc +cover +fcover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfadd_tb
+R2
+R3
+!i10b 1
+!s100 OEn?3eTbO4QBk[Zn`nm?e0
+IohahI?fBdOVaBGIA0hVZE0
+R4
+!s105 fadd_tb_v_unit
+S1
+R0
+w1686809189
+8fadd_tb.v
+Ffadd_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
